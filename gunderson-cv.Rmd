@@ -1,0 +1,345 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Christopher A. Gunderson, Ph.D.
+
+jobtitle: ""
+address: ""
+fontawesome: yes
+email: chrisagunderson@gmail.com
+
+phone: ""
+web: FALSE
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: keyword1, keyword2, keyword3
+
+fontfamily: cochineal
+monofont: Monaco
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+## Ph.D. Psychology \hfill  \textnormal{2022}  
+_Affective, Social, and Cognitive (ASC) Specialization Program_  
+University of Denver  
+
+Supervisor: Leanne M. ten Brinke, Ph.D.  
+Dissertation: _Interrupting Holistic Processing May Improve \newline the Detection of Deceptive Emotional Facial Expressions_  
+
+## M.A. Psychology \hfill 2017  
+_Option in Psychological Research_  
+California State University, Long Beach  
+
+Supervisor: William C. Pedersen, Ph.D.  
+Thesis: _The Moderating Effect of Type of Target on the \newline Relationship Between Collective Rumination and Displaced Aggression_  
+
+## B.A. Psychology \hfill 2014  
+Minor in Statistics  
+San Diego State University  
+Supervisor: Joseph M. Price, Ph.D.  
+
+# Fellowships, Grants, and Awards
+
+_Outstanding Teaching Award_ \hfill 2022  
+Department of Psychology, University of Denver  
+
+_Harry Gollob Award: Best Graduate Student First-author Publication_ \hfill 2022  
+Department of Psychology, University of Denver  
+
+_Graduate Education Dissertation Fellowship Award_ \hfill 2021  
+University of Denver
+
+_Lawrence Miller Scholar: Graduate Research Support_ \hfill 2019  
+Department of Psychology, University of Denver  
+
+_Outstanding Teaching Assistant Award_ \hfill 2019  
+Department of Psychology, University of Denver
+
+_Outstanding Service Award_ \hfill 2019  
+Department of Psychology, University of Denver
+
+_GSPDG and GSFF Travel Award_ \hfill 2019  
+University of Denver
+
+_Graduate Student Travel Award_ \hfill 2019  
+Department of Psychology, University of Denver
+
+_Outstanding Service Award_ \hfill 2018  
+Department of Psychology, University of Denver
+
+_Graduate Student Travel Award_ \hfill 2018  
+Society for Personality and Social Psychology, Atlanta, Georgia
+
+_Doctoral Fellowship Award_ \hfill 2017  
+Graduate Studies, University of Denver
+
+_Student Academic Travel Grant_ \hfill 2017  
+Student Life and Development, California State University, Long Beach
+
+_Robert E. Thayer Endowed Scholarship_ \hfill 2017  
+Department of Psychology, California State University, Long Beach
+
+_Student Travel Fund_ \hfill 2017  
+Associated Students Inc., California State University, Long Beach
+
+_Graduate Student Poster Award Competition Winner_ \hfill 2017  
+Society for Personality and Social Psychology, San Antonio, TX
+
+_Graduate Student Travel Fellowship Award _\hfill 2016  
+Project HOGAR (Hispanic Opportunities for Graduate Access & Retention)
+
+_Honor’s in Clinical Psychology Seminar_ \hfill 2016  
+MAPR Master’s Program, California State University, Long Beach
+
+_Undergraduate Research Excellence Award_ \hfill 2014  
+Student Research Symposium, San Diego State University
+
+# Publications
+
+\quad \hangindent=0.7cm **Gunderson**, C. A., Baker, A., Pence, A. D., & ten Brinke, L. M. (2021). Interpersonal consequences of deceptive expressions of sadness. _Personality and Social Psychology Bulletin_. https://doi.org/10.1177/01461672211059700
+
+\quad \hangindent=0.7cm  **Gunderson**, C. A., & ten Brinke, L. M. (2021). The connection between deception detection and financial exploitation of older (vs. young) adults. _Journal of Applied Gerontology_. https://doi.org/10.1177/07334648211049716 
+
+\quad \hangindent=0.7cm  Vo, T. V. A., **Gunderson**, C. A., & ten Brinke, L. M. (2021). How deception and believability feedback affect recall. _Memory_, 1--9. https://doi.org/10.1080/09658211.2021.1883064
+
+\quad \hangindent=0.7cm  **Gunderson**, C. A., & ten Brinke, L. M. (2019). Detecting deception. In N. Brewer & A. B. Douglass, _Psychological Science and the Law_ (pp.79--103). The Guilford Press. [Google Books Link](https://books.google.com/books?hl=en&lr=&id=jDV6DwAAQBAJ&oi=fnd&pg=PA79&dq=info:eFp-fZ3nY3wJ:scholar.google.com&ots=nNkmWHGbJx&sig=VzinX6qJkWsUsF1P6ryXnyoEEtw#v=onepage&q&f=false)
+
+## Manuscripts Accepted for Publication
+
+\quad \hangindent=0.7cm  **Gunderson**, C. A., Vo, T. V. A. , Harriot, B., Kam, C., & ten Brinke, L. M. In search of duping delight. _Affective Science_.
+
+## Manuscripts Under Review
+
+\quad \hangindent=0.7cm  **Gunderson**, C. A., ten Brinke, L. M., & Sokol-Hessner, P. When the body knows: Interoceptive accuracy enhances physiological but not explicit differentiation between liars and truth-tellers. Pre-print: https://psyarxiv.com/zs2yu
+
+## Manuscripts in Preparation
+
+\quad \hangindent=0.7cm  **Gunderson**, C. A., Pence, A. D., LeBlanc, M., & ten Brinke, L. M. Interpersonal consequences of identifying deception.  
+
+\quad \hangindent=0.7cm  Lloyd, E. P., Summers, K., **Gunderson**, C. A., Weesner, K. A., ten Brinke, L. M., Hugenberg, K., & McConnell, A. R. The Denver Pain Authenticity Stimulus Set (DPASS).  
+
+# Research Experience
+
+_Lab Manager, Graduate Researcher_   \hfill 2017--2022  
+Truth and Trust Lab  
+University of Denver  
+Supervisor: Leanne M. ten Brinke, Ph.D.  
+https://www.truthandtrustlab.com  
+
+_Graduate Researcher_ \hfill 2020--2022    
+Visual Perception, Emotion, and Cognition Laboratory  
+University of Denver  
+Supervisor: Timothy D. Sweeny  
+https://www.du.edu/ahss/psychology/vpec/index.html  
+
+_Lead Graduate Research Assistant_ \hfill 2015--2017  
+Aggression and Intergroup Relations Lab  
+California State University, Long Beach  
+Supervisor: William C. Pedersen, Ph.D.  
+http://www.aggression-irlab.com  
+
+_Undergraduate Research Assistant_ \hfill 2013--2014  
+Social Development Lab  
+San Diego State University  
+Supervisor: Joseph M. Price, Ph.D.  
+http://www.psychology.sdsu.edu/people/joseph-price  
+
+# Research Skills
+
+## Programming \qquad \qquad Experiment Creation \qquad \qquad Statistical Sofware \qquad Specialized Software
+R • Python •  Javascript \quad Medialab • JSPsych • Qualtrics \quad RStudio • SPSS • JASP \qquad FaceReader • BIOPAC
+
+\newpage 
+
+# Teaching Experience
+
+## Instructor of Record
+
++ _Introduction to Statistics_ \hfill Winter 2022  
+University of Denver  
+
++ _Research Methods_ \hfill Fall 2021  
+University of Denver  
+
++ _Special Topic Course: Deception_ \hfill Spring 2021  
+University of Denver  
+
+## Lab Instructor
+
++ _Economic Statistics_ (ECON-380) \hfill Spring 2017  
+California State University, Long Beach  
+
+## Guest Lecturer
+
++ _Applying to Grad School_ \hfill Spring 2021  
+Junior Honors (PSYC-2752)    
+University of Denver  
+
++ _Emotion_  \hfill Spring 2019  
+Social Psychology (PSYC-2740)  
+University of Denver  
+
++ _Does Psychology have a replication crisis?_ \hfill Winter 2019  
+Research Methods (PSYC-3050)  
+University of Denver  
+
++ _Independent samples t-test_ \hfill Fall 2018  
+Introductory Statistics (PSYC 2300)  
+University of Denver
+
++ _Independent samples t-test_ \hfill Spring 2017  
+Introductory Statistics (PSY-110)  
+California State University, Long Beach  
+
+## Graduate Teaching Assistant
+
++ University of Denver
+
+  + Organizational Psychology (PSYC-2701) \hfill Spring 2022  
+
+  + Introductory Statistics (PSYC-2300) \hfill Winter 2022
+  
+  + Research Methods (PSYC-3050) \hfill Fall 2021
+
+  + Junior Honors (PSYC-2751) \hfill Winter--Spring 2021  
+
+  + Introductory Statistics (PSYC-2300) \hfill Fall 2020  
+
+  + Research Methods (PSYC-3050) \hfill Spring 2020  
+  
+  + Social Psychology (PSYC-2740) \hfill Winter 2020  
+
+  + Forensic Psychology (PSYC-2610) \hfill Fall 2019  
+
+  + Social Psychology (PSYC-2740) \hfill Spring 2019  
+
+  + Research Methods (PSYC-3050) \hfill Winter 2019  
+
+  + Introductory Statistics (PSYC-2300) \hfill Fall 2018  
+
++ California State University, Long Beach
+
+  + Introductory Statistics (PSY-110) \hfill Spring 2017  
+
+  + Introductory Statistics (PSY-110) \hfill Fall 2016  
+
+  + Intermediate Statistics (PSY-310) \hfill Spring 2016  
+
+  + Introductory Statistics (PSY-110) \hfill Fall 2015  
+
+# Conference Presentations
+
+## 2022
+
+*   **Gunderson**, C.A., ten Brinke, L. M., Sweeny, T. (2022, April). _Interrupting holistic processing may improve the detection of deceptive facial expressions_. Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.  
+
+## 2020
+
+*   **Gunderson**, C.A., ten Brinke, L. M. (2020, February). _Older and younger adults’ truth bias, sympathy, and intentions to help genuine and deceptive individuals in a high-stakes context_. Poster presented at the annual meeting of the Society of Personality and Social Psychology, New Orleans, LA.  
+
+## 2019 
+
+*   **Gunderson**, C. A., Pence, A. D., ten Brinke, L. M. (2019, February). _Interpersonal consequences of deceptive sadness: Expresser authenticity impacts observer sympathy and intentions to help_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, Portland, OR.  
+
+*   Bashaw, D. R., **Gunderson**, C. A., Pedersen, W. C., Abbate, E., Avila, T., Carpentier, S., ... Valle, S. (2019, February). _I didn’t expect that from you: Type of target moderates the effect of collective narcissism on displaced aggression_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, Portland, OR.  
+
+*   Carpentier, S. T., Bashaw, D. R., **Gunderson**, C. A., Pedersen, W. C., Abbate, E., Alba, S., ... Valle, S. (2019, February). _Friend or foe? Rumination type moderates the effect of target type on triggered displaced aggression_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, Portland, OR.  
+
+## 2018
+
+*   Carpentier, S. T., Bashaw, D. R., **Gunderson**, C. A., Pedersen, W. C., Abbate, E., Alba, S., ...Valle, S. (2018, November). _Stewing about it with others drives you over the edge: Rumination type moderates the effect of revenge planning on displaced aggression towards innocent out-group members_. Poster presented at the Annual Biomedical Research Conference for Minority Students, Indianapolis, IN.  
+
+*   **Gunderson**, C. A., ten Brinke, L. M., Pence, A. (2018, April). _Seeing through crocodile tears: liars elicit less sympathy and help_. Poster presented at Psychological Science and the Public Good meeting, Denver, CO.  
+
+*   **Gunderson**, C. A., Flores, R. F., Pedersen, W. C., Abbate, E., Avila, T., Chester, C., ... Zamorano, C. (2018, March). _Blinded by anger: Collective rumination increases displaced aggression toward in-group but not out-group targets_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, Atlanta, GA.  
+
+*   Bashaw, D., **Gunderson**, C. A., Pedersen, W. C., Flores, R. F., Abbate, E., Avila, T., ... Zamorano, C. (2018, March). _Aggressing against our own: Rumination type moderates the effect of collective narcissism on displaced aggression towards in-group targets_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, Atlanta, GA.  
+
+*   Avila, T., **Gunderson**, C. A., Pedersen, W. C., Bashaw, D., Kotico, V., Madsen, E., ...Toyohara, S. (2018, March). _In-group status won’t protect you: The moderating effect of a trivial triggering event on ruminative displaced aggression_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, Atlanta, GA.  
+
+*   Flores, R. D., Pedersen, W. C., **Gunderson**, C. A., Lopez-Yglesias, A., Lizarraga, G., Russo, K., Lozano, J. (2018, March). _That’s not fair!: How unfairness appraisal and state anger mediate the relationship between resource inequality and retributive justice_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, Atlanta, GA.  
+
+## 2017
+
+*   Rivers, M. L., **Gunderson**, C. A., Avila, T., Pedersen, W.C. (2017, November). _Protecting one’s own: The moderating effect of sensitivity to in-group criticism on ruminative displaced aggression towards in-group and out-group targets_. Poster presented at the Annual Biomedical Research Conference for Minority Students, Phoenix, AZ.  
+
+*   **Gunderson**, C. A., Flores, R. F., Ellison, J. M., Pedersen, W. C., Abbate, E., Avila, T., ... Zamorano, C. (2017, April). _The more I think about it, they deserve it too: Degree of rumination moderates the effect of target type on group-based retribution_. Poster presented at the annual meeting of the Western Psychological Association, Sacramento, CA.  
+
+*   **Gunderson**, C. A., Flores, R. F., Pedersen, W. C., Abbate, E., Avila, T., Chester, C., ... Zamorano, C. (2017, April). _Collective rumination increases displaced aggression toward in-group but not out-group targets_. Poster presented at the annual CSULB PSYCH day research symposium, Long Beach, CA.  
+
+*   **Gunderson**, C. A., Ellison, J. M., Flores, R. F., Pedersen, W. C., Abbate, E., Chester, C., ... Zamorano, C. (2017, January). _Stewing about a provocation: The moderating effect of rumination type on the relationship between collective narcissism and displaced aggression_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, San Antonio, TX.  
+
+*   Flores, R. F., Ellison, J. M., **Gunderson**, C. A., Pedersen, W. C., Abbate, E., Chester, C., ... Tatiana, A. (2017, January). _The Impact of Outgroup Entitativity and Group Membership on Ruminative Displaced Aggression_. Poster presented at the annual meeting of the Society for Personality and Social Psychology, San Antonio, TX.  
+
+## 2016
+
+*   **Gunderson**, C. A., Ellison, J. M., Flores, R. F., Pedersen, W. C., Abbate, E., Chester, C., ... Zamorano, C. (2016, November). _Stewing about a provocation: The moderating effect of rumination type on the relationship between collective narcissism and displaced aggression_. Poster presented at the inaugural Graduate Research Conference at CSULB, Long Beach, CA.  
+
+*   **Gunderson**, C. A., Ellison, J. M., Pedersen, W. C., Abbate, C., Contreras, M., Flores, R. F., ... Zamorano, C., (2016, April). _The moderating effect of type of target on the relationship between collective rumination and displaced aggression_. Poster presented at the annual CSULB PSYCH day research symposium, Long Beach, CA.  
+
+*   Taylor, A.R., **Gunderson**, C. A., Pedersen, W. C., Ellison, J. M., Roberts, A. J., Geraci, G. G., ... Zamorano, C. (2016, April). _The impact of collective rumination and revenge planning on aggression_. Poster presented at the annual meeting of the Western Psychological Association, Long Beach, CA.  
+
+## 2014 
+
+*   **Gunderson**, C. A., Northcraft, A., Price, J. M. (2014, April). _Physical abuse and family instability predict behavior problems in children_. Poster presented at the Western Psychological Association, Portland, OR.  
+
+*   Northcraft, A., **Gunderson**, C. A., Price, J. M. (2014, April) _Resiliency among maltreated and nonmaltreated children in early grade school_. Poster presented at the Western Psychological Association, Portland, OR.  
+
+*   **Gunderson**, C. A., Northcraft, A., Price, J. M. (2014, March) _Physical abuse and family instability predict behavior problems in children_. Poster presented at the annual SDSU Student Research Symposium, San Diego, CA.  
+
+*   Northcraft, A., **Gunderson**, C. A., Price, J. M. (2014, March). _Resiliency among maltreated and nonmaltreated children in early grade school_. Poster presented at the annual SDSU Student Research Symposium, San Diego, CA.  
+
+*   Buncic, A., Stoermann, A., **Gunderson**, C. A., & Tierney, S. (2014, March). _The influence of anxiety on retrieval processes_. Poster presented at the annual SDSU Student Research Symposium, San Diego, CA.  
+
+# Departmental Talks
+
+_How deception and believability feedback affect recall_ \hfill 2021  
+Affective, Social and Cognitive (ASC) Area Brownbag  
+University of Denver  
+
+_Interpersonal consequences of deceptive sadness: Deceptive expressers receive less sympathy and help_ \hfill 2020  
+Affective, Social and Cognitive (ASC) Area Brownbag: Lightning talks  
+University of Denver 
+
+_The KIHA Project: Older and younger adults’ deception detection accuracy, bias, and sensitivity_ \hfill 2020  
+Affective, Social and Cognitive (ASC) Area Brownbag  
+University of Denver  
+
+_Meta-moral judgments: Interpersonal consequences of calling someone a liar_ \hfill 2019  
+Affective, Social and Cognitive (ASC) Area Brownbag  
+University of Denver  
+
+_The social functions of sadness: Deceptive expressers receive less sympathy and help_ \hfill 2018  
+Affective, Social and Cognitive (ASC) Area Brownbag  
+University of Denver  
+
+# Ad-hoc Reviewer
+
+_International Journal of Language & Law_  
+
+_Presidential Studies Quarterly_
+
+# Service
+
+_Overall Coordinator: Graduate student recruitment weekend_ \hfill 2018  
+University of Denver
+
+_Department Representative: Graduate Students of the Four Faculties_ \hfill 2017--2022  
+University of Denver  
+
+  + Representative of the Department of Psychology to help graduate students in the departments of Arts and Humanities, Social Sciences, Natural Sciences and Math, and Engineering and Computer Science fund their conference endeavors and discussing and/or addressing any issues that may arise pertaining to graduate students’ needs at DU.  
+
+# Professional Affiliations
+
+Student member of the Society of Personality and Social Psychology \hfill 2015--2022  
+
+Student member of the American Psychological Association \hfill 2014--2022
+
+Student member of the Western Psychological Association \hfill 2013--2015  
