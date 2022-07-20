@@ -103,6 +103,8 @@ Student Research Symposium, San Diego State University
 
 # Publications
 
+\quad \hangindent=0.7cm  **Gunderson**, C. A., Vo, T. V. A. , Harriot, B., Kam, C., & ten Brinke, L. M. (2022). In search of duping delight. _Affective Science_. https://doi.org/10.1007/s42761-022-00126-5
+
 \quad \hangindent=0.7cm **Gunderson**, C. A., Baker, A., Pence, A. D., & ten Brinke, L. M. (2021). Interpersonal consequences of deceptive expressions of sadness. _Personality and Social Psychology Bulletin_. https://doi.org/10.1177/01461672211059700
 
 \quad \hangindent=0.7cm  **Gunderson**, C. A., & ten Brinke, L. M. (2021). The connection between deception detection and financial exploitation of older (vs. young) adults. _Journal of Applied Gerontology_. https://doi.org/10.1177/07334648211049716 
@@ -110,10 +112,6 @@ Student Research Symposium, San Diego State University
 \quad \hangindent=0.7cm  Vo, T. V. A., **Gunderson**, C. A., & ten Brinke, L. M. (2021). How deception and believability feedback affect recall. _Memory_, 1--9. https://doi.org/10.1080/09658211.2021.1883064
 
 \quad \hangindent=0.7cm  **Gunderson**, C. A., & ten Brinke, L. M. (2019). Detecting deception. In N. Brewer & A. B. Douglass, _Psychological Science and the Law_ (pp.79--103). The Guilford Press. [Google Books Link](https://books.google.com/books?hl=en&lr=&id=jDV6DwAAQBAJ&oi=fnd&pg=PA79&dq=info:eFp-fZ3nY3wJ:scholar.google.com&ots=nNkmWHGbJx&sig=VzinX6qJkWsUsF1P6ryXnyoEEtw#v=onepage&q&f=false)
-
-## Manuscripts Accepted for Publication
-
-\quad \hangindent=0.7cm  **Gunderson**, C. A., Vo, T. V. A. , Harriot, B., Kam, C., & ten Brinke, L. M. In search of duping delight. _Affective Science_.
 
 ## Manuscripts Under Review
 
