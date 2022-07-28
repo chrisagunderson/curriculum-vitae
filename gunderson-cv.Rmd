@@ -129,7 +129,7 @@ Research Methods (PSYC-3050)
 University of Denver  
 
 + _Independent samples t-test_ \hfill Fall 2018  
-Introductory Statistics (PSYC 2300)  
+Introductory Statistics (PSYC-2300)  
 University of Denver
 
 + _Independent samples t-test_ \hfill Spring 2017  
