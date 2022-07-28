@@ -29,77 +29,17 @@ urlcolor: blue
 ## Ph.D. Psychology \hfill  \textnormal{2022}  
 _Affective, Social, and Cognitive (ASC) Specialization Program_  
 University of Denver  
-
 Supervisor: Leanne M. ten Brinke, Ph.D.  
-Dissertation: _Interrupting Holistic Processing May Improve \newline the Detection of Deceptive Emotional Facial Expressions_  
 
 ## M.A. Psychology \hfill 2017  
 _Option in Psychological Research_  
 California State University, Long Beach  
-
 Supervisor: William C. Pedersen, Ph.D.  
-Thesis: _The Moderating Effect of Type of Target on the \newline Relationship Between Collective Rumination and Displaced Aggression_  
 
 ## B.A. Psychology \hfill 2014  
 Minor in Statistics  
 San Diego State University  
 Supervisor: Joseph M. Price, Ph.D.  
-
-# Fellowships, Grants, and Awards
-
-_Outstanding Teaching Award_ \hfill 2022  
-Department of Psychology, University of Denver  
-
-_Harry Gollob Award: Best Graduate Student First-author Publication_ \hfill 2022  
-Department of Psychology, University of Denver  
-
-_Graduate Education Dissertation Fellowship Award_ \hfill 2021  
-University of Denver
-
-_Lawrence Miller Scholar: Graduate Research Support_ \hfill 2019  
-Department of Psychology, University of Denver  
-
-_Outstanding Teaching Assistant Award_ \hfill 2019  
-Department of Psychology, University of Denver
-
-_Outstanding Service Award_ \hfill 2019  
-Department of Psychology, University of Denver
-
-_GSPDG and GSFF Travel Award_ \hfill 2019  
-University of Denver
-
-_Graduate Student Travel Award_ \hfill 2019  
-Department of Psychology, University of Denver
-
-_Outstanding Service Award_ \hfill 2018  
-Department of Psychology, University of Denver
-
-_Graduate Student Travel Award_ \hfill 2018  
-Society for Personality and Social Psychology, Atlanta, Georgia
-
-_Doctoral Fellowship Award_ \hfill 2017  
-Graduate Studies, University of Denver
-
-_Student Academic Travel Grant_ \hfill 2017  
-Student Life and Development, California State University, Long Beach
-
-_Robert E. Thayer Endowed Scholarship_ \hfill 2017  
-Department of Psychology, California State University, Long Beach
-
-_Student Travel Fund_ \hfill 2017  
-Associated Students Inc., California State University, Long Beach
-
-_Graduate Student Poster Award Competition Winner_ \hfill 2017  
-Society for Personality and Social Psychology, San Antonio, TX
-
-_Graduate Student Travel Fellowship Award _\hfill 2016  
-Project HOGAR (Hispanic Opportunities for Graduate Access & Retention)
-
-_Honor’s in Clinical Psychology Seminar_ \hfill 2016  
-MAPR Master’s Program, California State University, Long Beach
-
-_Undergraduate Research Excellence Award_ \hfill 2014  
-Student Research Symposium, San Diego State University
 
 # Publications
 
@@ -318,6 +258,62 @@ _The social functions of sadness: Deceptive expressers receive less sympathy and
 Affective, Social and Cognitive (ASC) Area Brownbag  
 University of Denver  
 
+# Fellowships, Grants, and Awards
+
+_Outstanding Teaching Award_ \hfill 2022  
+Department of Psychology, University of Denver  
+
+_Harry Gollob Award: Best Graduate Student First-author Publication_ \hfill 2022  
+Department of Psychology, University of Denver  
+
+_Graduate Education Dissertation Fellowship Award_ \hfill 2021  
+University of Denver
+
+_Lawrence Miller Scholar: Graduate Research Support_ \hfill 2019  
+Department of Psychology, University of Denver  
+
+_Outstanding Teaching Assistant Award_ \hfill 2019  
+Department of Psychology, University of Denver
+
+_Outstanding Service Award_ \hfill 2019  
+Department of Psychology, University of Denver
+
+_GSPDG and GSFF Travel Award_ \hfill 2019  
+University of Denver
+
+_Graduate Student Travel Award_ \hfill 2019  
+Department of Psychology, University of Denver
+
+_Outstanding Service Award_ \hfill 2018  
+Department of Psychology, University of Denver
+
+_Graduate Student Travel Award_ \hfill 2018  
+Society for Personality and Social Psychology, Atlanta, Georgia
+
+_Doctoral Fellowship Award_ \hfill 2017  
+Graduate Studies, University of Denver
+
+_Student Academic Travel Grant_ \hfill 2017  
+Student Life and Development, California State University, Long Beach
+
+_Robert E. Thayer Endowed Scholarship_ \hfill 2017  
+Department of Psychology, California State University, Long Beach
+
+_Student Travel Fund_ \hfill 2017  
+Associated Students Inc., California State University, Long Beach
+
+_Graduate Student Poster Award Competition Winner_ \hfill 2017  
+Society for Personality and Social Psychology, San Antonio, TX
+
+_Graduate Student Travel Fellowship Award _\hfill 2016  
+Project HOGAR (Hispanic Opportunities for Graduate Access & Retention)
+
+_Honor’s in Clinical Psychology Seminar_ \hfill 2016  
+MAPR Master’s Program, California State University, Long Beach
+
+_Undergraduate Research Excellence Award_ \hfill 2014  
+Student Research Symposium, San Diego State University
+
 # Ad-hoc Reviewer
 
 _International Journal of Language & Law_  
@@ -326,15 +322,17 @@ _Presidential Studies Quarterly_
 
 # Service
 
-_Overall Coordinator: Graduate student recruitment weekend_ \hfill 2018  
-University of Denver
-
 _Department Representative: Graduate Students of the Four Faculties_ \hfill 2017--2022  
 University of Denver  
 
   + Representative of the Department of Psychology to help graduate students in the departments of Arts and Humanities, Social Sciences, Natural Sciences and Math, and Engineering and Computer Science fund their conference endeavors and discussing and/or addressing any issues that may arise pertaining to graduate students’ needs at DU.  
 
+_Overall Coordinator: Graduate student recruitment weekend_ \hfill 2018  
+University of Denver
+
 # Professional Affiliations
+
+Student member of the Cognitive Neuroscience Society \hfill 2021--2022
 
 Student member of the Society of Personality and Social Psychology \hfill 2015--2022  
 
