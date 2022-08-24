@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.3)  18 AUG 2022 13:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.21)  23 AUG 2022 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **gunderson-cv.tex
 (./gunderson-cv.tex
-LaTeX2e <2022-06-01> patch level 4
-L3 programming layer <2022-07-01> (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-05> (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -329,11 +329,11 @@ with kernel methods
 \Fld@listcount=\count290
 \c@bookmark@seq@number=\count291
 (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip62
 )
@@ -615,7 +615,7 @@ File: pgfmoduleparser.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 LaTeX Info: Redefining \oldstylenums on input line 115.
 (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count341
 \l__pdf_internal_box=\box65
 ) (./gunderson-cv.aux)
@@ -749,18 +749,18 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 144.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 169.
+(Font)              scaled to size 10.95pt on input line 170.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 212.
+(Font)              scaled to size 8.0pt on input line 213.
 [1
 
 {/Users/gunderson/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for TS1+Cochineal-TLF on input line 251.
+LaTeX Font Info:    Trying to load font information for TS1+Cochineal-TLF on input line 252.
 (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/cochineal/TS1Cochineal-TLF.fd
 File: TS1Cochineal-TLF.fd 2016/01/19 (msharpe) Font definitions for TS1/Cochineal-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 251.
+(Font)              scaled to size 10.95pt on input line 252.
 [2] [3] [4] [5] [6] [7] 
 AED: lastpage setting LastPage
 [8] (./gunderson-cv.aux)
@@ -768,15 +768,15 @@ Package rerunfilecheck Info: File `gunderson-cv.out' has not changed.
 (rerunfilecheck)             Checksum: FB4F343D2E942E3184054641B01EBA7A;4322.
  ) 
 Here is how much of TeX's memory you used:
- 26742 strings out of 479996
- 500711 string characters out of 5887251
- 795478 words of memory out of 5000000
- 44136 multiletter control sequences out of 15000+600000
+ 26742 strings out of 479638
+ 500711 string characters out of 5877684
+ 797459 words of memory out of 5000000
+ 44494 multiletter control sequences out of 15000+600000
  665809 words of font info for 213 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,12n,118p,1024b,618s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_jhwmea.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_sygphi.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_otkq6i.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_cuw7wa.enc} </Users/gunderson/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on gunderson-cv.pdf (8 pages, 290246 bytes).
+Output written on gunderson-cv.pdf (8 pages, 290283 bytes).
 PDF statistics:
  292 PDF objects out of 1000 (max. 8388607)
  253 compressed objects within 3 object streams
