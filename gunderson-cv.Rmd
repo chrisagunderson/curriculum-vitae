@@ -8,7 +8,7 @@ author: Christopher A. Gunderson, Ph.D.
 jobtitle: ""
 address: ""
 fontawesome: yes
-email: chrisagunderson@gmail.com
+email: chris.gunderson@du.edu
 
 phone: ""
 web: FALSE
@@ -44,6 +44,8 @@ Supervisor: Joseph M. Price, Ph.D.
 
 # Publications
 
+\quad \hangindent=0.7cm  **Gunderson**, C. A., ten Brinke, L. M., & Sokol-Hessner, P. (2023). When the body knows: Interoceptive accuracy enhances physiological but not explicit differentiation between liars and truth-tellers. _Personality and Individual Differences_. https://doi.org/10.1016/j.paid.2022.112039
+
 \quad \hangindent=0.7cm  **Gunderson**, C. A., Vo, T. V. A. , Harriot, B., Kam, C., & ten Brinke, L. M. (2022). In search of duping delight. _Affective Science_. https://doi.org/10.1007/s42761-022-00126-5
 
 \quad \hangindent=0.7cm **Gunderson**, C. A., Baker, A., Pence, A. D., & ten Brinke, L. M. (2021). Interpersonal consequences of deceptive expressions of sadness. _Personality and Social Psychology Bulletin_, _49_(1), 97--109. https://doi.org/10.1177/01461672211059700
@@ -54,13 +56,9 @@ Supervisor: Joseph M. Price, Ph.D.
 
 \quad \hangindent=0.7cm  **Gunderson**, C. A., & ten Brinke, L. M. (2019). Detecting deception. In N. Brewer & A. B. Douglass, _Psychological Science and the Law_ (pp.79--103). The Guilford Press. [Google Books Link](https://books.google.com/books?hl=en&lr=&id=jDV6DwAAQBAJ&oi=fnd&pg=PA79&dq=info:eFp-fZ3nY3wJ:scholar.google.com&ots=nNkmWHGbJx&sig=VzinX6qJkWsUsF1P6ryXnyoEEtw#v=onepage&q&f=false)
 
-## Manuscripts Accepted
+## Manuscripts Accepted for Publication
 
-\quad \hangindent=0.7cm  **Gunderson**, C. A., ten Brinke, L. M., & Sokol-Hessner, P. When the body knows: Interoceptive accuracy enhances physiological but not explicit differentiation between liars and truth-tellers. Pre-print: https://psyarxiv.com/zs2yu
-
-## Manuscripts Under Review
-
-\quad \hangindent=0.7cm  Lloyd, E. P., Summers, K., **Gunderson**, C. A., Weesner, K. A., ten Brinke, L. M., Hugenberg, K., & McConnell, A. R. The Denver Pain Authenticity Stimulus Set (DPASS).
+\quad \hangindent=0.7cm  Lloyd, E. P., Summers, K., **Gunderson**, C. A., Weesner, K. A., ten Brinke, L. M., Hugenberg, K., & McConnell, A. R. Denver Pain Authenticity Stimulus Set (DPASS). _Behavior Research Methods_.
 
 ## Manuscripts in Preparation
 
