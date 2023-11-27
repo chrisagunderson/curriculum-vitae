@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.21)  31 OCT 2023 09:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.21)  27 NOV 2023 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,35 +751,35 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/sc' will be
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 170.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 222.
+(Font)              scaled to size 8.0pt on input line 220.
 [1
 
 {/Users/gunderson/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for TS1+Cochineal-TLF on input line 256.
+LaTeX Font Info:    Trying to load font information for TS1+Cochineal-TLF on input line 254.
 (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/cochineal/TS1Cochineal-TLF.fd
 File: TS1Cochineal-TLF.fd 2016/01/19 (msharpe) Font definitions for TS1/Cochineal-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 256.
+(Font)              scaled to size 10.95pt on input line 254.
 [2] [3] [4] [5] [6] [7] 
 AED: lastpage setting LastPage
 [8] (./gunderson-cv.aux)
 Package rerunfilecheck Info: File `gunderson-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 0A5EB81A2EDB07176C5D2DED3A1F5696;4385.
+(rerunfilecheck)             Checksum: 9880D876153DCAFADFAADD8D91F59614;4140.
  ) 
 Here is how much of TeX's memory you used:
- 26742 strings out of 479638
- 500735 string characters out of 5877684
- 799471 words of memory out of 5000000
- 44494 multiletter control sequences out of 15000+600000
- 665809 words of font info for 213 fonts, out of 8000000 for 9000
+ 26747 strings out of 479638
+ 500871 string characters out of 5877684
+ 798411 words of memory out of 5000000
+ 44492 multiletter control sequences out of 15000+600000
+ 667022 words of font info for 219 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,11n,118p,1024b,618s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_jhwmea.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_sygphi.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_otkq6i.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_cuw7wa.enc} </Users/gunderson/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on gunderson-cv.pdf (8 pages, 289587 bytes).
+Output written on gunderson-cv.pdf (8 pages, 290174 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
- 252 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
- 41221 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 41213 words of extra memory for PDF output out of 42996 (max. 10000000)
 
