@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.21)  27 NOV 2023 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.21)  3 NOV 2024 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -739,47 +739,47 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 129.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 140.
+(Font)              scaled to size 14.4pt on input line 139.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 140.
+(Font)              scaled to size 14.4pt on input line 139.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 140.
+(Font)              scaled to size 12.0pt on input line 139.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 140.
+(Font)              scaled to size 12.0pt on input line 139.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 144.
+(Font)              scaled to size 10.95pt on input line 142.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 170.
+(Font)              scaled to size 10.95pt on input line 165.
 LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 220.
+(Font)              scaled to size 8.0pt on input line 213.
 [1
 
 {/Users/gunderson/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for TS1+Cochineal-TLF on input line 254.
+LaTeX Font Info:    Trying to load font information for TS1+Cochineal-TLF on input line 238.
 (/Users/gunderson/Library/TinyTeX/texmf-dist/tex/latex/cochineal/TS1Cochineal-TLF.fd
 File: TS1Cochineal-TLF.fd 2016/01/19 (msharpe) Font definitions for TS1/Cochineal-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 254.
+(Font)              scaled to size 10.95pt on input line 238.
 [2] [3] [4] [5] [6] [7] 
 AED: lastpage setting LastPage
 [8] (./gunderson-cv.aux)
 Package rerunfilecheck Info: File `gunderson-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 9880D876153DCAFADFAADD8D91F59614;4140.
+(rerunfilecheck)             Checksum: ACA2528E5975413C245677628E8C8BB1;3984.
  ) 
 Here is how much of TeX's memory you used:
- 26747 strings out of 479638
- 500871 string characters out of 5877684
- 798411 words of memory out of 5000000
- 44492 multiletter control sequences out of 15000+600000
+ 26714 strings out of 479638
+ 500300 string characters out of 5877684
+ 799366 words of memory out of 5000000
+ 44490 multiletter control sequences out of 15000+600000
  667022 words of font info for 219 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,11n,118p,1024b,618s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_jhwmea.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_sygphi.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_otkq6i.enc}{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/cochineal/coch_cuw7wa.enc} </Users/gunderson/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/gunderson/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb></Users/gunderson/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on gunderson-cv.pdf (8 pages, 290174 bytes).
+Output written on gunderson-cv.pdf (8 pages, 289719 bytes).
 PDF statistics:
- 285 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 41213 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 246 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 41205 words of extra memory for PDF output out of 42996 (max. 10000000)
 
